@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Osmanlı_İmparatorluğu",
+    "name": "Anadolu Kapısı",
+    "uniqueTo": "Osmanlı İmparatorluğu",
+    "cost": 45,
+    "requiredTech": "Masonry",
+    "hurryCostModifier": 50,
+    "uniques": ["City health +55",
+     "City defense strength +5",
+     "Garrison healing +50%",
+     "Gold maintenance -2"]
+  }
+]
